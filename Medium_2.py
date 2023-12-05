@@ -1,4 +1,4 @@
-# Function to find majority element in an array
+#2. Given an integer array of size n, find all elements that appear more than ⌊ n/3 ⌋ times.
 def findMajority(arr, n):
     # Flag to check if a majority element is found
     flag = 0
