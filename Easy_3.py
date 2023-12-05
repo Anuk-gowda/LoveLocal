@@ -1,3 +1,4 @@
+#3. Given an integer numRows, return the first numRows of Pascal's triangle.
 def generate_pascals_triangle(numRows):
     # Check if numRows is 0, return an empty list
     if numRows == 0:
