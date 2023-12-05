@@ -1,4 +1,4 @@
-//Given an integer n, count the total number of digit 1 appearing in all non-negative integers less than or equal to n.
+//3.Given an integer n, count the total number of digit 1 appearing in all non-negative integers less than or equal to n.
 #include <stdio.h>
 
 // Function to count the occurrences of digit '1' in all non-negative integers
